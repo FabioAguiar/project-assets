@@ -1,2 +1,15 @@
-# portfolio-powerbi
-A collection of Power BI projects showcasing interactive dashboards and data-driven insights. This portfolio highlights skills in data cleaning, modeling, and visualization, with real-world datasets to support business intelligence and decision-making.
+# project-assets
+
+Repositório privado para armazenar imagens, logos, ícones, atalhos de desktop, imagens geradas por IA, capturas de tela e referências visuais dos projetos pessoais.
+
+## Estrutura principal
+
+```text
+global/
+  Assets reutilizáveis entre projetos.
+
+projects/
+  Assets separados por projeto.
+
+scripts/
+  Scripts auxiliares para validação, conversão ou exportação de imagens.
