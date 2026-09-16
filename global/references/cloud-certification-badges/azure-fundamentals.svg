@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Microsoft Certified Azure Fundamentals</title>
+  <desc id="desc">Active Azure Fundamentals certification badge.</desc>
+  <defs>
+    <linearGradient id="az-blue" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1684d8"/><stop offset="1" stop-color="#0868b8"/></linearGradient>
+  </defs>
+  <g transform="translate(24 3) scale(.88)">
+    <path d="M200 18 322 58q24 8 24 34v182q0 70-44 106-43 35-102 57-59-22-102-57-44-36-44-106V92q0-26 24-34Z" fill="#fff" stroke="#082b5c" stroke-width="16"/>
+    <path d="M61 238h278v36q0 63-40 96-40 33-99 55-59-22-99-55-40-33-40-96Z" fill="url(#az-blue)"/>
+    <text x="200" y="87" text-anchor="middle" fill="#1f1b64" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700">Microsoft</text>
+    <text x="200" y="120" text-anchor="middle" fill="#1f1b64" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="6">CERTIFIED</text>
+    <path d="M44 144q156-26 312 0 15 3 19 18l12 69q3 17-15 22-172 39-344 0-18-5-15-22l12-69q4-15 19-18Z" fill="#fff" stroke="#555" stroke-width="9"/>
+    <text x="200" y="191" text-anchor="middle" fill="#2d2d2d" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700">AZURE</text>
+    <text x="200" y="229" text-anchor="middle" fill="#2d2d2d" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="1">FUNDAMENTALS</text>
+    <path d="m200 309 11 24 27 3-20 19 5 27-23-13-23 13 5-27-20-19 27-3Z" fill="#fff"/>
+  </g>
+</svg>

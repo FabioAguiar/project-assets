@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">AWS Certified Cloud Practitioner — In Progress</title>
+  <desc id="desc">AWS Cloud Practitioner certification badge shown as in progress.</desc>
+  <defs>
+    <linearGradient id="aws-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#56616d"/><stop offset="1" stop-color="#1f2832"/></linearGradient>
+    <filter id="aws-gray"><feColorMatrix type="saturate" values="0"/></filter>
+    <clipPath id="aws-clip"><path d="m200 18 157 91v182l-157 91-157-91V109Z"/></clipPath>
+  </defs>
+  <g>
+    <g filter="url(#aws-gray)" opacity=".62">
+      <path d="m200 18 157 91v182l-157 91-157-91V109Z" fill="url(#aws-bg)" stroke="#e8ebed" stroke-width="12"/>
+      <path d="m200 34 142 82v168l-142 82-142-82V116Z" fill="none" stroke="#aeb5bb" stroke-width="3"/>
+      <text x="200" y="112" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="40">aws</text>
+      <path d="M159 122q43 24 86 0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <text x="200" y="148" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="24">certified</text>
+      <path d="M108 171h184" stroke="#fff" stroke-width="2"/>
+      <text x="200" y="220" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700">Cloud</text>
+      <text x="200" y="260" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700">Practitioner</text>
+      <path d="M108 281h184" stroke="#fff" stroke-width="2"/>
+      <text x="200" y="320" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" letter-spacing="6">FOUNDATIONAL</text>
+    </g>
+    <g clip-path="url(#aws-clip)" transform="rotate(-34 200 200)">
+      <rect x="-20" y="172" width="440" height="56" fill="#16813c" opacity=".97"/>
+      <path d="M-20 176h440M-20 224h440" stroke="#6bd28b" stroke-width="2" opacity=".65"/>
+      <text x="200" y="210" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="4">IN PROGRESS</text>
+    </g>
+  </g>
+</svg>

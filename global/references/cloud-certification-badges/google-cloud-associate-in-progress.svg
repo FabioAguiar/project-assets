@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Google Cloud Associate Cloud Engineer — In Progress</title>
+  <desc id="desc">Google Cloud Associate Cloud Engineer badge shown as in progress.</desc>
+  <defs>
+    <radialGradient id="gcp-metal"><stop stop-color="#81929a"/><stop offset=".68" stop-color="#586b75"/><stop offset="1" stop-color="#2e4049"/></radialGradient>
+    <filter id="gcp-gray"><feColorMatrix type="saturate" values="0"/></filter>
+    <clipPath id="gcp-clip"><circle cx="200" cy="200" r="176"/></clipPath>
+  </defs>
+  <g>
+    <g filter="url(#gcp-gray)" opacity=".62">
+      <circle cx="200" cy="200" r="176" fill="url(#gcp-metal)" stroke="#aebbc1" stroke-width="6"/>
+      <circle cx="200" cy="200" r="140" fill="#eef1f2" stroke="#fff" stroke-width="12"/>
+      <circle cx="200" cy="200" r="105" fill="#fff" stroke="#3880e8" stroke-width="16"/>
+      <text x="200" y="62" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="20">Google Cloud Certified</text>
+      <text x="200" y="352" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="2">CLOUD ENGINEER</text>
+      <g transform="translate(130 140)">
+        <path d="M48 73H29C13 73 0 60 0 44s13-29 29-29c7-14 22-23 39-23 23 0 42 17 45 39 15 2 27 15 27 31 0 17-14 31-31 31H48Z" fill="#4285f4"/>
+        <path d="M28 73C12 72 0 60 0 44c0-12 7-23 17-27l18 18c-5 1-9 5-9 10 0 6 5 10 11 10h20Z" fill="#34a853"/>
+        <path d="M29 15C36 1 51-8 68-8c13 0 25 6 33 15L83 25c-4-5-10-8-17-8-9 0-16 5-20 12Z" fill="#fbbc04"/>
+        <path d="M101 7c7 7 11 15 12 24 15 2 27 15 27 31 0 17-14 31-31 31H83V71h25c6 0 11-5 11-11 0-5-4-10-10-11h-17c0-9-3-17-9-24Z" fill="#ea4335"/>
+      </g>
+      <rect x="153" y="294" width="94" height="28" rx="14" fill="#4a66c5"/>
+      <text x="200" y="314" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">ASSOCIATE</text>
+      <circle cx="61" cy="200" r="5" fill="#dbe1e4"/><circle cx="339" cy="200" r="5" fill="#dbe1e4"/>
+    </g>
+    <g clip-path="url(#gcp-clip)" transform="rotate(-34 200 200)">
+      <rect x="-20" y="172" width="440" height="56" fill="#16813c" opacity=".97"/>
+      <path d="M-20 176h440M-20 224h440" stroke="#6bd28b" stroke-width="2" opacity=".65"/>
+      <text x="200" y="210" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="4">IN PROGRESS</text>
+    </g>
+  </g>
+</svg>
